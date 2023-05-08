@@ -1,2 +1,2 @@
-# nesmu
+# NESemu
 NES emulator (WIP)
